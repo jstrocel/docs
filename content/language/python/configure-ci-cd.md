@@ -38,7 +38,7 @@ Create a GitHub repository, configure the Docker Hub secrets, and push your sour
    the repository you created.
 
    ```console
-   $ git remote set-url origin https://github.com/your-username/your-repository.git
+   $ git remote set-url origin git@github.com:your-username/your-repository.git
    ```
 
 7. Run the following commands to stage, commit, and push your local repository to GitHub.
